@@ -10,17 +10,17 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/channel/UC8aV270kGoi54CAamzSjL9Q"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.youtube.com/channel/UC8aV270kGoi54CAamzSjL9Q" target="_blank"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/ia_arnab"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://twitter.com/ia_arnab" target="_blank"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/ATj4B9uM" alt="ArnabXero Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.gg/ATj4B9uM" alt="ArnabXero Tips Discussion & Support Server" target="_blank"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/arnabxero"><img width="32px" alt="Dev.to" title="arnabxero Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://dev.to/arnabxero" target="_blank"><img width="32px" alt="Dev.to" title="arnabxero Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/arnabxero"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  <a href="https://ko-fi.com/arnabxero" target="_blank"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.facebook.com/iftekharahmed.arnab.0"><img width="32px" alt="Free Stuff" title="My Facebook Profile" src="https://i.imgur.com/pDlxXzs.png"/></a>
+  <a href="https://www.facebook.com/iftekharahmed.arnab.0" target="_blank"><img width="32px" alt="Free Stuff" title="My Facebook Profile" src="https://i.imgur.com/pDlxXzs.png"/></a>
 </p>
 
 <br/>
