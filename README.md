@@ -187,9 +187,9 @@
 ## 📺 Latest YouTube videos and Facebook Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A programmer into the nature | Sylhet Lalakhal Tour](https://www.youtube.com/watch?v=tcNW0b0W2C8)
 - [XeroBot v1.0 alpha First Test Demonstration by Arnab](https://www.youtube.com/watch?v=q7FhLXdcjRc)
 - [Horror Cave Adventure Game Demonstration](https://www.youtube.com/watch?v=WOkC11EPrkU)
 - [Automatic Smart Water Pump Project Demonstration](https://www.youtube.com/watch?v=wd-rCnabbLY)
 - [8 Puzzle Problem solution | Misplaced Tiles | AI | Easiest Solution Ever](https://www.youtube.com/watch?v=PF1eV5UsDJg)
-- [Here&#39;s A fun Program to Count Your solved problems in vJudge With Indexing!](https://www.youtube.com/watch?v=ZjQYDr2nwCI)
 <!-- BLOG-POST-LIST:END -->
