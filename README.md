@@ -187,9 +187,9 @@
 ## 📺 Latest YouTube videos and Facebook Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to make an android app invisible from app drawer after installation | Android spy app build](https://www.youtube.com/watch?v=5v8rpvHAo8k)
 - [শখের মৎস শিকার | নিকলী হাওর | মজলিশপুর কাটাখাল | A Programmer Goes Fishing](https://www.youtube.com/watch?v=V5rum9ss69Q)
 - [Robotic Arm v1.0 by Arnab Xero](https://www.youtube.com/watch?v=O0rxHLX0vk0)
 - [A programmer into the nature | Sylhet Lalakhal Tour](https://www.youtube.com/watch?v=tcNW0b0W2C8)
 - [XeroBot v1.0 alpha First Test Demonstration by Arnab](https://www.youtube.com/watch?v=q7FhLXdcjRc)
-- [Horror Cave Adventure Game Demonstration](https://www.youtube.com/watch?v=WOkC11EPrkU)
 <!-- BLOG-POST-LIST:END -->
