@@ -187,9 +187,9 @@
 ## 📺 Latest YouTube videos and Facebook Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [8 Puzzle Problem solution | Manhattan Distance | AI | Easiest Solution Ever](https://www.youtube.com/watch?v=zmx8g8SaG7c)
 - [NEUB Forum Web Project by Arnab Xero | Web Project](https://www.youtube.com/watch?v=Y_G0NQBbZ44)
 - [Bank Management Software by Arnab Xero | Java Project](https://www.youtube.com/watch?v=-BAdWcUSlS8)
 - [Operating System Project by Arnab Xero | Java Projects](https://www.youtube.com/watch?v=cKHoxuBoq0Y)
 - [Calculator v3.0 Project by Arnab Xero | Java Project](https://www.youtube.com/watch?v=-427HjhFchQ)
-- [How to make an android app invisible from app drawer after installation | Android spy app build](https://www.youtube.com/watch?v=5v8rpvHAo8k)
 <!-- BLOG-POST-LIST:END -->
