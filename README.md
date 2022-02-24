@@ -192,4 +192,14 @@
 - [NEUB Forum Web Project by Arnab Xero | Web Project](https://www.youtube.com/watch?v=Y_G0NQBbZ44)
 - [Bank Management Software by Arnab Xero | Java Project](https://www.youtube.com/watch?v=-BAdWcUSlS8)
 - [Operating System Project by Arnab Xero | Java Projects](https://www.youtube.com/watch?v=cKHoxuBoq0Y)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END --> 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+[![trophy](https://github-profile-trophy.vercel.app/?username=arnabxero&theme=onedark)](https://github.com/arnabxero/github-profile-trophy)
