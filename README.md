@@ -187,7 +187,7 @@
 ## 📺 Latest YouTube videos and Facebook Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Social media&lpar;similar to facebook&rpar; project [Demo] php, html, css, js, mysql | coming soon........](https://www.youtube.com/watch?v=kFmqmemeIDQ)
+- [Social media project &lpar;similar to facebook&rpar; [Demo] php, html, css, js, mysql | coming soon........](https://www.youtube.com/watch?v=kFmqmemeIDQ)
 - [Programming on Android Phone | Best 3 Programming IDE App for Android | CPP Java Python](https://www.youtube.com/watch?v=D4dGWg-GZ2Y)
 - [8 Puzzle Problem solution | Manhattan Distance | AI | Easiest Solution Ever](https://www.youtube.com/watch?v=zmx8g8SaG7c)
 - [NEUB Forum Web Project by Arnab Xero | Web Project](https://www.youtube.com/watch?v=Y_G0NQBbZ44)
