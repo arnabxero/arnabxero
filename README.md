@@ -187,11 +187,11 @@
 ## 📺 Latest YouTube videos and Facebook Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FOODIE - A food review and blogging platform | Project By Arnab](https://www.youtube.com/watch?v=djQF7OkdLpY)
 - [ReachMe - A Social Media Web Project By ArnabXero | Full Overview/Demonstration](https://www.youtube.com/watch?v=ICv4IHnHEuc)
 - [Social media project &lpar;similar to facebook&rpar; [Demo] php, html, css, js, mysql | coming soon........](https://www.youtube.com/watch?v=kFmqmemeIDQ)
 - [Programming on Android Phone | Best 3 Programming IDE App for Android | CPP Java Python](https://www.youtube.com/watch?v=D4dGWg-GZ2Y)
 - [8 Puzzle Problem solution | Manhattan Distance | AI | Easiest Solution Ever](https://www.youtube.com/watch?v=zmx8g8SaG7c)
-- [NEUB Forum Web Project by Arnab Xero | Web Project](https://www.youtube.com/watch?v=Y_G0NQBbZ44)
 <!-- BLOG-POST-LIST:END --> 
 	
 	
