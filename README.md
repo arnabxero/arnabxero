@@ -37,10 +37,10 @@
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UC8aV270kGoi54CAamzSjL9Q?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
   <a href="https://github.com/arnabxero?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/arnabxero"/></a>
-  <!-- <a href="https://github.com/arnabxero?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/arnabxero?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> -->
-  <a href="https://github.com/arnabxero/">
-    <img alt="views" title="GitHub profile views" src="https://viewcountxero.000webhostapp.com/"/></a>
+  <a href="https://github.com/arnabxero?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/arnabxero?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+<!--  <a href="https://github.com/arnabxero/">
+    <img alt="views" title="GitHub profile views" src="https://viewcountxero.000webhostapp.com/"/></a>-->
 </p>
 
 
