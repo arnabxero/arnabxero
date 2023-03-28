@@ -30,11 +30,7 @@
 <!-- YouTube stats - https://github.com/arnabxero/github-readme-youtube-stats -->
 <!-- View counter - https://github.com/arnabxero/Simple-View-Counter -->
 <!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
-<p align="center">
-	
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="http://arnab.rf.gd/site_view_counter"/>
-	
-	
+<p align="center">	
   <a href="https://www.youtube.com/channel/UC8aV270kGoi54CAamzSjL9Q?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UC8aV270kGoi54CAamzSjL9Q?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
   <a href="https://www.youtube.com/channel/UC8aV270kGoi54CAamzSjL9Q">
