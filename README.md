@@ -32,8 +32,7 @@
 <!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
 <p align="center">
 	
-	 <a href="https://www.youtube.com/channel/UC8aV270kGoi54CAamzSjL9Q?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="http://arnab.rf.gd/site_view_counter"/></a> 
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="http://arnab.rf.gd/site_view_counter"/>
 	
 	
   <a href="https://www.youtube.com/channel/UC8aV270kGoi54CAamzSjL9Q?sub_confirmation=1">
