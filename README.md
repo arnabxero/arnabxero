@@ -5,12 +5,12 @@
 
 <!-- Typing SVG by arnabxero - https://github.com/arnabxero/readme-typing-svg -->
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=F1F70C&lines=Hello%2C+I+am+Arnab;A+Computer+Engineer.;Coding+is+my+passion.;I+love+robotics.&font=Fira%20Code&center=true&width=440&height=45&color=0002f7&vCenter=true&size=22"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I+am+Iftekhar+Ahmed+Arnab;CS+Graduate;Software+Engineer+at+Dorik;+A+Robotics+Enthusiast;Researcher+%26+Co-Author+at+NEUB+%26+Auburn+University" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I+am+Iftekhar+Ahmed+Arnab;CS+Graduate;Software+Engineer+at+Dorik;+A+Robotics+Enthusiast;Researcher+%26+Co-Author+at+NEUB+%26+Auburn+University" alt="Typing SVG" /></a>
+<a href="https://www.youtube.com/channel/UC8aV270kGoi54CAamzSjL9Q" target="_blank"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/ia_arnab" target="_blank"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
