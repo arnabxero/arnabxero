@@ -10,7 +10,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/channel/UC8aV270kGoi54CAamzSjL9Q" target="_blank"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I+am+Iftekhar+Ahmed+Arnab;CS+Graduate;Software+Engineer+at+Dorik;+A+Robotics+Enthusiast;Researcher+%26+Co-Author+at+NEUB+%26+Auburn+University" alt="Typing SVG" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/ia_arnab" target="_blank"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
