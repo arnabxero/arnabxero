@@ -5,7 +5,7 @@
 
 <!-- Typing SVG by arnabxero - https://github.com/arnabxero/readme-typing-svg -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I+am+Iftekhar+Ahmed+Arnab;CS+Graduate;Software+Engineer+at+Dorik;+A+Robotics+Enthusiast;Researcher+%26+Co-Author+at+NEUB+%26+Auburn+University" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=100&center=true&vCenter=true&multiline=true&width=700&height=200&lines=Hello%2C+I+am+Iftekhar+Ahmed+Arnab;A+CS+Graduate;Software+Engineer+at+Dorik;+A+Robotics+Enthusiast;Researcher+%26+Co-Author+at+NEUB+%26+Auburn+University" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
