@@ -194,11 +194,11 @@
 ## 📺 Latest YouTube videos and Facebook Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [XeroRAT | Android Spyware Development | Initial Overview by ArnabXero | Ethical Hacking](https://www.youtube.com/watch?v=12rRIKlNako)
 - [Project Xero Campus - Pre Alpha Demonstration | Node JS | React JS | Next JS | Full-Stack](https://www.youtube.com/watch?v=khHK6yo1-vs)
 - [Boat Rowing on Eid Ul Adha - Vacation 2023](https://www.youtube.com/watch?v=mqyOM8pC2Xo)
 - [FOODIE - A food review and blogging platform | Project By Arnab](https://www.youtube.com/watch?v=djQF7OkdLpY)
 - [ReachMe - A Social Media Web Project By ArnabXero | Full Overview/Demonstration](https://www.youtube.com/watch?v=ICv4IHnHEuc)
-- [Social media project &lpar;similar to facebook&rpar; [Demo] php, html, css, js, mysql | coming soon........](https://www.youtube.com/watch?v=kFmqmemeIDQ)
 <!-- BLOG-POST-LIST:END --> 
 	
 	
