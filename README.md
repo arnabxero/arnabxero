@@ -194,11 +194,11 @@
 ## 📺 Latest YouTube videos and Facebook Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Magical Moment Caught by ArnabXero | Magical Sky | Travel | Nature](https://www.youtube.com/watch?v=Q6vGu1onGKc)
 - [Project AI Directory Web App | MERN Stack | Full Stack App by ArnabXero](https://www.youtube.com/watch?v=gmDstNSQ398)
 - [XeroRAT | Android Spyware Development | Initial Overview by ArnabXero | Ethical Hacking](https://www.youtube.com/watch?v=12rRIKlNako)
 - [Project Xero Campus - Pre Alpha Demonstration | Node JS | React JS | Next JS | Full-Stack](https://www.youtube.com/watch?v=khHK6yo1-vs)
 - [Boat Rowing on Eid Ul Adha - Vacation 2023](https://www.youtube.com/watch?v=mqyOM8pC2Xo)
-- [FOODIE - A food review and blogging platform | Project By Arnab](https://www.youtube.com/watch?v=djQF7OkdLpY)
 <!-- BLOG-POST-LIST:END --> 
 	
 	
