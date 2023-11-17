@@ -148,8 +148,7 @@
 
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/arnabxero"><img alt="arnabxero's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arnabxero&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
+<a href="https://github.com/arnabxero"><img alt="arnabxero's Activity Graph" src="https://arnab-github-activity.netlify.app/graph?username=arnabxero&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 ## 📺 Latest YouTube videos and Facebook Posts
