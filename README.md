@@ -128,9 +128,8 @@
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-
+<center>
 ## 📊 Github stats
-
 <!-- https://github.com/anuraghazra/github-readme-stats -->
   <br/>
     <a href="https://github.com/arnabxero">
@@ -141,6 +140,7 @@
 </a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</center>
 
 
 
@@ -148,7 +148,7 @@
 
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/arnabxero"><img alt="arnabxero's Activity Graph" src="https://arnab-github-activity.netlify.app/graph?username=arnabxero&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
 
 
 ## 📺 Latest YouTube videos and Facebook Posts
