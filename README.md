@@ -154,11 +154,11 @@
 ## 📺 Latest YouTube videos and Facebook Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Eftakhar Ahmed Arnob Live Stream](https://www.youtube.com/watch?v=DMRqKjhgWYo)
 - [Hello TTF Android App Developed for Client | Cyber Victim Support Android App](https://www.youtube.com/watch?v=DoQBWFzv03E)
 - [A Fog Kissed Morning in My Village Home | ArnabXero](https://www.youtube.com/watch?v=a_ubQF_8-C8)
 - [A Magical Moment Caught by ArnabXero | Magical Sky | Travel | Nature](https://www.youtube.com/watch?v=Q6vGu1onGKc)
 - [Project AI Directory Web App | MERN Stack | Full Stack App by ArnabXero](https://www.youtube.com/watch?v=gmDstNSQ398)
-- [XeroRAT | Android Spyware Development | Initial Overview by ArnabXero | Ethical Hacking](https://www.youtube.com/watch?v=12rRIKlNako)
 <!-- BLOG-POST-LIST:END --> 
 	
 	
