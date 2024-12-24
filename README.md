@@ -154,11 +154,11 @@
 ## 📺 Latest YouTube videos and Facebook Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Florida Tour Episode 3 | Day 3 and 4 | Miami South Beach](https://www.youtube.com/watch?v=SgmU5gNKsUk)
 - [Florida Tour Episode 2 | Day 2 | Clearwater Beach](https://www.youtube.com/watch?v=DkN8Sak1dDU)
 - [Florida Tour Episode 1 | Day 1 | Miami Sea Beaches](https://www.youtube.com/watch?v=mDlKrBVibOs)
 - [Beat Bama Food Drive Event | Auburn University Episode 2](https://www.youtube.com/watch?v=PcDQ7R-W7nQ)
 - [First 56 - Kick Off Event | Auburn University](https://www.youtube.com/watch?v=CUSOCBXumHE)
-- [Summer is Calling | Farmlands Village Road Travel | ArnabXero](https://www.youtube.com/watch?v=bqC2eTp4kSQ)
 <!-- BLOG-POST-LIST:END --> 
 	
 	
