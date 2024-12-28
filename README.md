@@ -154,11 +154,11 @@
 ## 📺 Latest YouTube videos and Facebook Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What We Saw on Christmas in USA!](https://www.youtube.com/watch?v=QYoD-wm4uk8)
 - [Florida Tour Episode 3 | Day 3 and 4 | Miami South Beach](https://www.youtube.com/watch?v=gUJydTHPUVY)
 - [Florida Tour Episode 2 | Day 2 | Clearwater Beach](https://www.youtube.com/watch?v=DkN8Sak1dDU)
 - [Florida Tour Episode 1 | Day 1 | Miami Sea Beaches](https://www.youtube.com/watch?v=mDlKrBVibOs)
 - [Beat Bama Food Drive Event | Auburn University Episode 2](https://www.youtube.com/watch?v=PcDQ7R-W7nQ)
-- [First 56 - Kick Off Event | Auburn University](https://www.youtube.com/watch?v=CUSOCBXumHE)
 <!-- BLOG-POST-LIST:END --> 
 	
 	
