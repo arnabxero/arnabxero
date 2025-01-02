@@ -154,11 +154,11 @@
 ## 📺 Latest YouTube videos and Facebook Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2 Minute Love Story - A Recreation of &quot;1 Minute Love Story&quot; Stop Motion from @oveboss1](https://www.youtube.com/watch?v=gzQL8FY9POs)
 - [What We Saw on Christmas in USA!](https://www.youtube.com/watch?v=QYoD-wm4uk8)
 - [Florida Tour Episode 3 | Day 3 and 4 | Miami South Beach](https://www.youtube.com/watch?v=gUJydTHPUVY)
 - [Florida Tour Episode 2 | Day 2 | Clearwater Beach](https://www.youtube.com/watch?v=DkN8Sak1dDU)
 - [Florida Tour Episode 1 | Day 1 | Miami Sea Beaches](https://www.youtube.com/watch?v=mDlKrBVibOs)
-- [Beat Bama Food Drive Event | Auburn University Episode 2](https://www.youtube.com/watch?v=PcDQ7R-W7nQ)
 <!-- BLOG-POST-LIST:END --> 
 	
 	
