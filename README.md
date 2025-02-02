@@ -154,7 +154,7 @@
 ## 📺 Latest YouTube videos and Facebook Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Our First Snow ❄️☃️ Experience at Atlanta 🤩 | Snow Episode 2](https://www.youtube.com/watch?v=dACxm_QnKOw)
+- [Our First Snow ❄️☃️ Experience at Blue Ridge Mountains 🗻🏔️ 🤩 | Snow Episode 2](https://www.youtube.com/watch?v=dACxm_QnKOw)
 - [Our First Snow ❄️☃️ Experience at Atlanta 🤩 | Snow Episode 1](https://www.youtube.com/watch?v=IQZ6doEtY3s)
 - [We Visited Florida Again in Cold Winter!](https://www.youtube.com/watch?v=T6R8965oh8I)
 - [2 Minute Love Story - A Recreation of &quot;1 Minute Love Story&quot; Stop Motion from @oveboss1](https://www.youtube.com/watch?v=gzQL8FY9POs)
