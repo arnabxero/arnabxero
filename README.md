@@ -156,11 +156,11 @@
 ## 📺 Latest YouTube videos and Facebook Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [✨ Enchanted Christmas Lights at Callaway Gardens | Magical Train Ride Through the Forest 🚂🎄](https://www.youtube.com/watch?v=OIxw--VjG2s)
 - [A peaceful, calm &amp; rainstorm evening at Lake Martin 😌 ⛈️🌪️⛵️](https://www.youtube.com/watch?v=rF_PWeJQLms)
 - [What happened on Snowfall in Auburn | Snow Episode 3 | Final Snowfall Episode](https://www.youtube.com/watch?v=rQWmeQIp6zg)
 - [Our First Snow ❄️☃️ Experience at Blue Ridge Mountains 🗻🏔️ 🤩 | Snow Episode 2](https://www.youtube.com/watch?v=dACxm_QnKOw)
 - [Our First Snow ❄️☃️ Experience at Atlanta 🤩 | Snow Episode 1](https://www.youtube.com/watch?v=IQZ6doEtY3s)
-- [We Visited Florida Again in Cold Winter!](https://www.youtube.com/watch?v=T6R8965oh8I)
 <!-- BLOG-POST-LIST:END --> 
 	
 	
