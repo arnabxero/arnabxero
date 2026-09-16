@@ -156,11 +156,11 @@
 ## 📺 Latest YouTube videos and Facebook Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [জর্জিয়ার স্টোন মাউন্টেন](https://www.youtube.com/watch?v=toavfAHK7gM)
-- [You Won&#39;t BELIEVE What I Saw at Miami Beach!](https://www.youtube.com/watch?v=JsU4NlbhEOU)
-- [Let&#39;s Explore The Beauty Of USA With Arnob! ⛰️🌲🔥🎬](https://www.youtube.com/watch?v=n7qjb9FTJeY)
-- [✨ Enchanted Christmas Lights at Callaway Gardens | Magical Train Ride Through the Forest 🚂🎄](https://www.youtube.com/watch?v=OIxw--VjG2s)
-- [A peaceful, calm &amp; rainstorm evening at Lake Martin 😌 ⛈️🌪️⛵️](https://www.youtube.com/watch?v=rF_PWeJQLms)
+- [আমেরিকার মেলা](https://www.youtube.com/watch?v=t6hoFAyKgTU)
+- [আমেরিকার হাওর এ গোসল](https://www.youtube.com/watch?v=nXrlEZQf0Bo)
+- [আমেরিকার হাওর এ গোসল](https://www.youtube.com/watch?v=u80dlTGWGO8)
+- [আমেরিকার হাওর এ গোসল](https://www.youtube.com/watch?v=OmcvFMmR-cs)
+- [আমেরিকার হাওর এ গোসল](https://www.youtube.com/watch?v=CK0KB0DDruc)
 <!-- BLOG-POST-LIST:END --> 
 	
 	
