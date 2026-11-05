@@ -2,11 +2,11 @@
 
 # 👋 Hi, I'm Eftakhar Ahmed Arnob (*Iftekhar Ahmed Arnab*)
 
-### **Ph.D. Researcher in CSSE @ Auburn University** | **Cyber-Physical & Vision Security** | **Full-Stack & Robotics Engineer**
+### **Ph.D. Researcher in CSSE @ Auburn University** | **CPS & Vision Security** | **Bio-Hybrid Robotics & Full-Stack Engineer**
 
 <!-- Typing SVG -->
 <a href="https://arnob.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=F85D7F&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Ph.D.+Researcher+%26+GRA+at+Auburn+University+(CSSE);Securing+AI+Perception%2C+Autonomous+Vehicles+%26+Robotic+Systems;Full-Stack+Developer+(Next.js%2C+TypeScript%2C+Tailwind%2C+MongoDB);Former+Software+Engineer+%40+Dorik+%7C+Creator+of+Explore+with+Arnob" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=F85D7F&center=true&vCenter=true&multiline=true&repeat=true&width=840&height=100&lines=Ph.D.+Researcher+%40+Auburn+University+(CPS+Lab%2C+NiFELab+%26+ICAMS+Lab);Co-Inventor+on+3+Patents+(StrayScope%2C+StrayRestore+%26+Lens+Shield);Securing+Autonomous+Vehicles%2C+Smart+Cameras+%26+Bio-Hybrid+Robots;Former+Software+Engineer+(QA+Lead)+%40+Dorik+%7C+3x+ICPC+Regionalist" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,6 +14,9 @@
 <!-- Live GitHub & Social Metrics (100% Native Shields.io - Never Breaks) -->
 <a href="https://arnob.dev" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-arnob.dev-F85D7F?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1F222E" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/arnab-xero/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-arnab--xero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F222E" alt="LinkedIn" />
 </a>
 <a href="https://github.com/arnabxero?tab=followers" target="_blank">
   <img src="https://img.shields.io/github/followers/arnabxero?style=for-the-badge&logo=github&label=Followers&color=236ad3&labelColor=1F222E" alt="GitHub Followers" />
@@ -27,15 +30,18 @@
 
 <br/>
 
-<!-- Social Connect Links -->
+<!-- Quick Social Connect Bar -->
 <a href="https://arnob.dev" target="_blank">
   <img src="https://img.shields.io/badge/Website-arnob.dev-000000?style=flat-square&logo=vercel&logoColor=white" alt="Website" />
 </a>
 <a href="https://webhome.auburn.edu/~eza0072/" target="_blank">
   <img src="https://img.shields.io/badge/Auburn_University-CSSE_Profile-0C2340?style=flat-square&logo=academia&logoColor=E87722" alt="Auburn Profile" />
 </a>
-<a href="https://www.youtube.com/channel/UC8aV270kGoi54CAamzSjL9Q" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
+<a href="mailto:eza0072@auburn.edu">
+  <img src="https://img.shields.io/badge/Email-eza0072%40auburn.edu-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/arnab-xero/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://twitter.com/ia_arnab" target="_blank">
   <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter" />
@@ -59,24 +65,36 @@
 
 ## 🔬 About Me & Research
 
-I am a **Ph.D. Student and Graduate Research Assistant** in the Department of Computer Science and Software Engineering (CSSE) at **Auburn University** (Auburn, AL), holding a B.Sc. in Computer Science & Engineering. My work bridges **adversarial optical physics, cyber-physical security, autonomous driving perception, bio-inspired soft robotics, and full-stack software engineering**.
+I am a **Ph.D. Student and Graduate Research Assistant** in the Department of Computer Science and Software Engineering (CSSE) at **Auburn University** (advised by **Dr. Yazhou Tu**) and hold a B.Sc. (Engg.) in CSE from **North East University Bangladesh (NEUB)**. My work spans **cyber-physical systems (CPS) security, adversarial optical physics, autonomous vehicle perception, bio-hybrid soft robotics, and industrial AI safety systems**.
 
-- 🛡️ **Cyber-Physical & Vision Security:** Investigating sensor-level optical injection threats and building physical/algorithmic defenses for autonomous vehicles (CARLA + OpenPilot Hardware-in-the-Loop testbeds) and commercial smart cameras.
-- 🏆 **Real-World Security Impact:** Responsibly disclosed optical perception vulnerabilities accepted by **Google Nest**, **Amazon Ring**, **Arlo**, and **Reolink**—featured in **Auburn University News**.
-- 🤖 **Soft Robotics & Embedded Hardware:** Co-authored published research in *Soft Robotics* on plant-inspired elastic–hydraulic tactile sensing; passionate about building custom ESP32 dev boards, 3D-printed enclosures, and robotic control systems.
-- 💻 **Full-Stack Engineering:** Former Software Engineer at **Dorik**; experienced in architecting modern web applications with **Next.js, TypeScript, Tailwind CSS, Shadcn UI, and MongoDB**.
-- 🎥 **Community & Media:** Committee member on the **Auburn University Program Council (AUPC)** Special Events Committee and creator of **Explore with Arnob**.
+- 🛡️ **StrayScope, StrayRestore & Lens Shield (Cyber-Physical Security Lab):** Exposed zero-day physical-layer vulnerabilities across 9 commercial smart security cameras (**Google Nest, Amazon Ring, Arlo**) via light injection attacks. Invented three patented technologies: training-free optical physics detection (*Spectral-Spatial & Environmental Mapping*), the first sensorless evidence recovery algorithm for rolling-shutter-compromised camera feeds (**StrayRestore**), and the **Lens Shield** physical defense attachment.
+- 🚗 **Autonomous Vehicle & CPS Security:** Developing Hardware-in-the-Loop (HIL) adversarial testing frameworks to evaluate self-driving perception stacks (object detection, lane recognition, depth estimation) alongside SLAM/IMU sensor fusion, GPS spoofing defense, and BCI prosthetic security.
+- 🧬 **Bio-Robotic Fusion (NiFELab, Dept. of Chemical Engineering):** Collaborating with **Dr. Jean-François Louf** on next-generation bio-hybrid robotic and prosthetic systems capable of biological neural decision-making and human-like tactile sensing via hydrogel and living-neuron skin.
+- 🏭 **Smart Manufacturing & CCTV Safety Monitoring (ICAMS Lab, Dept. of Industrial Engineering):** Collaborating with **Dr. John Osho** on smart manufacturing plant management software, machine data collection/automation, and computer-vision-driven CCTV safety compliance monitoring.
+- 💻 **Full-Stack Engineering:** Former **Software Engineer (QA Lead)** at **Dorik Inc.** (2023–2024), building scalable web applications with **Next.js, TypeScript, Tailwind CSS, Shadcn UI, Node.js, and MongoDB**.
 
 ---
 
-## 📜 Patents & Selected Publications
+## 📜 Patents, Publications & Media Coverage
 
-| Category | Title / Venue | Details |
+### 🏛️ Patents
+| # | Patent Title & Core Innovation | Inventors & Filing Status |
+| :-: | :--- | :--- |
+| **1** | **Detecting Optical Injection Attacks on Cameras by Harnessing Adversarial Optical Physics** <br/> *Training-free Spectral-Spatial & Environmental Mapping optical attack detection* | *Arnob, E. A., Tu, Y., Hei, X., et al.* <br/> Application ID: `2026-025` (USPTO `63/970,607`) |
+| **2** | **Lens Shield – Out of View Laser/Optical Injection Shield** <br/> *First physical attachment device preventing out-of-view light injection attacks on cameras* | *Arnob, E. A., Tu, Y., Hei, X., et al.* <br/> Application ID: `2026-070` (USPTO `64/070,198`) |
+| **3** | **StrayRestore (StrayScope) – Rolling Shutter Injection Attack Recovery System** <br/> *First sensorless recovery algorithm restoring corrupted camera feeds from rolling-shutter injection attacks* | *Arnob, E. A., Tu, Y., Hei, X., et al.* <br/> Application ID: *Being Processed* (2026) |
+
+### 📚 Selected Publications & Datasets
+| Venue / Status | Title & Co-Authors | Link / Identifier |
 | :--- | :--- | :--- |
-| **U.S. Patent (Provisional)** | **Detecting Optical Injection Attacks on Cameras by Harnessing Adversarial Optical Physics** | U.S. Patent App. `63/970,607` (2026) — Co-Inventor |
-| **U.S. Patent (Provisional)** | **Lens Shield: Out-of-View Laser & Optical Injection Shield** | U.S. Patent App. `64/070,198` (2026) — Co-Inventor |
-| **Journal Article** | **Plant-Inspired Elastic–Hydraulic Tactile Sensing Enables Quantitative Stiffness Estimation in Soft Robots** | Published in ***Soft Robotics*** (2026) • [DOI: 10.1177/21695172261453210](https://doi.org/10.1177/21695172261453210) |
-| **Security Research** | **StrayScope & Smart Home Vision Perception Defense** | Evaluating and mitigating stray-light & laser injection attacks across commercial smart home and autonomous driving perception systems |
+| **IEEE S&P `[A]*`** *(Submission)* | **StrayScope: Mitigating Visual Perception Threats and Hardening Vision Models by Harnessing Adversarial Optics** — *Arnob, E. A., Tu, Y., et al.* | *Cyber-Physical Security Lab* |
+| **Soft Robotics** *(Published, May 2026)* | **Plant-Inspired Elastic–Hydraulic Tactile Sensing Enables Quantitative Stiffness Estimation in Soft Robots** — *Ovee, T. A., Arnob, E. A., Louf, J. F.* | [DOI: 10.1177/21695172261453210](https://doi.org/10.1177/21695172261453210) |
+| **Springer Nature** *(Under Review, 2026)* | **Efficiency-Driven Neural Network for Real-Time Shape Completion** — *Ovee, T. A., Arnob, E. A., Louf, J. F.* | *Under Review* |
+| **IEEE DataPort** *(Published, 2025)* | **ED2 Dataset** — *Ovee, T. A., Arnob, E. A. (Co-First Author), Louf, J. F.* | [DOI: 10.21227/k52q-qs41](https://doi.org/10.21227/k52q-qs41) |
+
+### 📰 Featured Media Coverage
+- 🗞️ **Auburn University News (September 2026):** *"Assistant professor of chemical engineering earns $1 million NSF grant to develop biohybrid robots that sense touch through living neurons."*
+- 🗞️ **Auburn University News (October 2025):** [*"Assistant Professor in CSSE Exposes Vulnerability in AI-Powered Security Cameras."*](https://ia.auburn.edu/news/2025/10/assistant-professor-in-csse-exposes-vulnerability-in-ai-powered-security-cameraselopment.html)
 
 ---
 
@@ -85,7 +103,7 @@ I am a **Ph.D. Student and Graduate Research Assistant** in the Department of Co
 ### 👨‍💻 Programming Languages *(Click any badge to filter my repos)*
 <p align="center">
   <a href="https://github.com/search?q=user%3Aarnabxero+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3Aarnabxero+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Aarnabxero+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C%2F%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Aarnabxero+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Aarnabxero+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
   <a href="https://github.com/search?q=user%3Aarnabxero+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
@@ -104,10 +122,12 @@ I am a **Ph.D. Student and Graduate Research Assistant** in the Department of Co
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-  <img alt="YOLO" src="https://img.shields.io/badge/YOLO_Vision-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black">
+  <img alt="YOLO Vision" src="https://img.shields.io/badge/YOLO_Vision-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black">
   <img alt="CARLA Simulator" src="https://img.shields.io/badge/CARLA_Simulator-1E293B?style=for-the-badge&logo=unrealengine&logoColor=white">
   <img alt="OpenPilot" src="https://img.shields.io/badge/OpenPilot_HIL-000000?style=for-the-badge&logo=comma&logoColor=white">
+  <img alt="SLAM & Sensor Fusion" src="https://img.shields.io/badge/2D_SLAM_%26_IMU_Fusion-0F172A?style=for-the-badge&logo=ros&logoColor=white">
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white">
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
 </p>
 
@@ -130,19 +150,33 @@ I am a **Ph.D. Student and Graduate Research Assistant** in the Department of Co
 
 ### 🤖 Robotics, Embedded Hardware & Developer Tools
 <p align="center">
-  <img alt="ESP32" src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
+  <img alt="ESP32 / ESP8266" src="https://img.shields.io/badge/ESP32_%2F_ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
-  <img alt="myCobot & Gimbal HIL" src="https://img.shields.io/badge/myCobot_Robotics-FF5722?style=for-the-badge&logo=ros&logoColor=white">
+  <img alt="Optical & Laser Testbeds" src="https://img.shields.io/badge/Optical_%26_Laser_Testbeds-FF5722?style=for-the-badge&logo=ros&logoColor=white">
   <img alt="3D Printing" src="https://img.shields.io/badge/3D_Printing-Bambu_Lab_%2F_CAD-00AE42?style=for-the-badge&logo=autodesk&logoColor=white">
   <img alt="PyVISA & SCPI" src="https://img.shields.io/badge/PyVISA_%2F_SCPI-Lab_Automation-005A9C?style=for-the-badge&logo=python&logoColor=white">
   <img alt="Ubuntu Linux" src="https://img.shields.io/badge/Ubuntu_Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </p>
+
+---
+
+## 🏆 Competitive Programming, Conferences & Leadership
+
+- 🏅 **ICPC Bangladesh Regional Onsite Contestant (3x):** Ranked **90th** (2020), **103rd** (2021), and **141st** (2022) nationally.
+- 🌐 **Google CodeJam 2021 Qualification Round:** World Rank **1677th** / National Rank **13th** (`arnabxero`).
+- 🎤 **Academic Conference Presentations:**
+  - **APS DSOFT 2024** *(Minneapolis, MN)* — *Poroelastic Mechanosensing Soft Robots*
+  - **CompFlu 2023** *(Chennai, India, Dec 2023)* — *Plant-Inspired Mechanosensitive Soft Robots*
+  - **AIChE Annual Meeting 2023** *(Orlando, FL, Nov 2023)* — *Plant-Inspired Mechano-Sensing Soft Robots*
+  - **AIChE Annual Meeting 2022** *(Phoenix, AZ, Nov 2022)* — *Poroelastic Mechano-Sensing Soft Robots*
+- 🥇 **Hackathons & Contests:** Champion at *NEUB Internal Programming Contest* (2019), 2nd Runner-Up at *SJ Innovation Hackathon* (2021, Team: Gladiators), and 1st Position at District Level *National Talent Hunt Competition* (2014).
+- 🏛️ **Academic Service & Leadership:** Committee Member on the **Auburn University Program Council (AUPC)** Special Events Committee; Former Technical Trainer & Mentor (Robotics Lab & ACM Programming Workshop) and Teaching Assistant at **NEUB**.
 
 ---
 
